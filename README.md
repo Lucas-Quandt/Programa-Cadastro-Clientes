@@ -1,3 +1,7 @@
+# PROGRAMA DE CADASTRO DE CLIENTES
+Programa feito em JAVA utilizando o netbeans, em anexo segue o arquivo que cotem as tabelas para serem importadas no banco de dados
+com o nome de: ModelosTabelas.sql
+
 # CRUD Java SE com MySQL
 ## CRUD em Java SE com MySQL, cadastro de usuário, usando JTable
 
