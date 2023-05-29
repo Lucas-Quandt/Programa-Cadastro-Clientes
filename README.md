@@ -44,8 +44,13 @@ PRIMARY KEY (id)
 
  # Tela Cadastro Aluno
 <p align="center">  
-<a href=target="blank"><img align="center" img src="https://github.com/Lucas-Quandt/Programa-Cadastro-Clientes/assets/103226578/14fdfb7e-8b1f-49d7-b163-1b05ca3bd774" /a>  
+<a href=target="blank"><img align="center" img src="https://github.com/Lucas-Quandt/Programa-Cadastro-Clientes/assets/103226578/6f84534c-0a05-4000-92d6-286d5f469efe" /a>  
 </p>  
+ 
+ # Tela Cadastro Visitante ou aluno de apenas um dia
+<p align="center">  
+<a href=target="blank"><img align="center" img src="https://github.com/Lucas-Quandt/Programa-Cadastro-Clientes/assets/103226578/6f84534c-0a05-4000-92d6-286d5f469efe" /a>  
+</p> 
   
   
   
