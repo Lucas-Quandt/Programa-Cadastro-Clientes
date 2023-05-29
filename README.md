@@ -34,7 +34,7 @@ PRIMARY KEY (id)
 
 <h5 align="center"Imagens dos programa :</h5>
 <p align="center">
-<a href=target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg"  /a>
+<a href=target="blank"><img align="center" src="https://github.com/Lucas-Quandt/Programa-Cadastro-Clientes/assets/103226578/6e52d96f-3c81-4ba3-9c87-c2f968c20684" /a>
 <a href=target="blank"><img align="center" img src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg"  /a>
 <a href= target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/68/gmail-icon.svg" >
 </p>
