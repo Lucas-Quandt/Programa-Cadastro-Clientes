@@ -51,6 +51,11 @@ PRIMARY KEY (id)
 <p align="center">  
 <a href=target="blank"><img align="center" img src="https://github.com/Lucas-Quandt/Programa-Cadastro-Clientes/assets/103226578/c5b4f63a-1fa4-41f7-8b3c-4d7adf5d5e7c" /a>  
 </p> 
+
+# Tela Cadastro Professor
+<p align="center">  
+<a href=target="blank"><img align="center" img src="https://github.com/Lucas-Quandt/Programa-Cadastro-Clientes/assets/103226578/a8d79869-2fc6-4124-907d-cec839c61005" /a>  
+</p> 
   
   
   
