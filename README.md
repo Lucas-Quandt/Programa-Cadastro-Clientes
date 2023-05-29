@@ -49,7 +49,7 @@ PRIMARY KEY (id)
  
  # Tela Cadastro Visitante ou aluno de apenas um dia
 <p align="center">  
-<a href=target="blank"><img align="center" img src="https://github.com/Lucas-Quandt/Programa-Cadastro-Clientes/assets/103226578/6f84534c-0a05-4000-92d6-286d5f469efe" /a>  
+<a href=target="blank"><img align="center" img src="https://github.com/Lucas-Quandt/Programa-Cadastro-Clientes/assets/103226578/c5b4f63a-1fa4-41f7-8b3c-4d7adf5d5e7c" /a>  
 </p> 
   
   
